@@ -1,0 +1,20 @@
+﻿<form name="userForm" ng-submit="getMyString(userForm.$valid)">
+    <div>
+        <div>
+            <input type="number" min="0" max="25000" ng-model="minValue" required />
+            <br />
+            <br />
+            <input type="number" min="0" max="25000" ng-model="maxValue" required />
+            <br />
+            <br />
+            <input type="submit" />
+            <br />
+            <br />
+            {{stringDataVal}}
+            <br />
+            <div id="Error">
+                {{error}}
+            </div>
+        </div>
+    </div>
+</form>

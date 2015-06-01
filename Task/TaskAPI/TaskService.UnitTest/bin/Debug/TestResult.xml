@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Birch\Deliverable\TaskAPI\TaskService.UnitTest\bin\Debug\TaskService.UnitTest.dll" total="7" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-05-25" time="21:38:49">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="PC1565" user="sunilm" user-domain="OFS1" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Birch\Deliverable\TaskAPI\TaskService.UnitTest\bin\Debug\TaskService.UnitTest.dll" executed="True" result="Success" success="True" time="0.232" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TaskService" executed="True" result="Success" success="True" time="0.190" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTest" executed="True" result="Success" success="True" time="0.189" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="StringMakerServiceTest" executed="True" result="Success" success="True" time="0.186" asserts="0">
+                <results>
+                  <test-case name="TaskService.UnitTest.StringMakerServiceTest.TestDivisibilityByNumberThree" executed="True" result="Success" success="True" time="0.069" asserts="1" />
+                  <test-case name="TaskService.UnitTest.StringMakerServiceTest.TestDivisibilityByNumbesThreeAndFive" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="TaskService.UnitTest.StringMakerServiceTest.TestDivisibilityByOnlyNumberFive" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="TaskService.UnitTest.StringMakerServiceTest.TestDivisibilityByOnlyThree" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="TaskService.UnitTest.StringMakerServiceTest.TestDivisibilityByReversingMinAndMax" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="TaskService.UnitTest.StringMakerServiceTest.TestDivisibilityByThreeAndFive" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="TaskService.UnitTest.StringMakerServiceTest.TestDivisibleByFive" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

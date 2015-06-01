@@ -1,0 +1,12 @@
+D:\Birch\Deliverable\TaskAPIClient\TaskAPIClient\bin\TaskAPIClient.dll.config
+D:\Birch\Deliverable\TaskAPIClient\TaskAPIClient\bin\TaskAPIClient.dll
+D:\Birch\Deliverable\TaskAPIClient\TaskAPIClient\bin\TaskAPIClient.pdb
+D:\Birch\Deliverable\TaskAPIClient\TaskAPIClient\obj\Debug\TaskAPIClient.dll
+D:\Birch\Deliverable\TaskAPIClient\TaskAPIClient\obj\Debug\TaskAPIClient.pdb
+D:\Birch\Deliverable\TaskAPIClient\TaskAPIClient\obj\Debug\TaskAPIClient.csprojResolveAssemblyReference.cache
+D:\Birch\DeliverablePostComments\Deliverable\Deliverable\TaskAPIClient\TaskAPIClient\bin\TaskAPIClient.dll.config
+D:\Birch\DeliverablePostComments\Deliverable\Deliverable\TaskAPIClient\TaskAPIClient\bin\TaskAPIClient.dll
+D:\Birch\DeliverablePostComments\Deliverable\Deliverable\TaskAPIClient\TaskAPIClient\bin\TaskAPIClient.pdb
+D:\Birch\DeliverablePostComments\Deliverable\Deliverable\TaskAPIClient\TaskAPIClient\obj\Debug\TaskAPIClient.dll
+D:\Birch\DeliverablePostComments\Deliverable\Deliverable\TaskAPIClient\TaskAPIClient\obj\Debug\TaskAPIClient.pdb
+D:\Birch\DeliverablePostComments\Deliverable\Deliverable\TaskAPIClient\TaskAPIClient\obj\Debug\TaskAPIClient.csprojResolveAssemblyReference.cache
